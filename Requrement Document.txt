@@ -1,0 +1,7 @@
+Required document for Gtpl bank
+1.	First user must check he is successfully logged in on Gtpl bank page.
+2.	after that user have to click New account option and have to see its clickable or not
+3.	user ll see add new account form after clicking new account .
+4.	user have to fill mandatory fields such as a. customer id
+b.. account type
+c. Initial deposi
